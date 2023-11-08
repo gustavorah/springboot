@@ -1,2 +1,2 @@
 # springboot
-crud using spring boot
+simple crud using spring boot
